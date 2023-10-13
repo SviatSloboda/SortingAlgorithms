@@ -1,4 +1,6 @@
 public class SelectionSort {
+
+    // O(n^2)
     public static int[] selectionSort(int[] arr){
         int length = arr.length;
         for (int i = 0; i < length - 1; i++) {

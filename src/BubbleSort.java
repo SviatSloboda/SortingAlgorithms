@@ -1,4 +1,5 @@
 public class BubbleSort {
+    // O(n^2)
     public static int[] bubbleSort(int[] arr){
         boolean notSorted = true;
         while (notSorted){

@@ -7,7 +7,7 @@ public class Main {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = new Random().nextInt(10);
         }
-        System.out.println(Arrays.toString(BubbleSort.bubbleSort(arr)));
+        System.out.println(Arrays.toString(SelectionSort.selectionSort(arr)));
     }
 }
 

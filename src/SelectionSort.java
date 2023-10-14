@@ -1,7 +1,7 @@
 public class SelectionSort {
 
     // O(n^2)
-    public static int[] selectionSort(int[] arr){
+    public static int[] selectionSortichek(int[] arr){
         int length = arr.length;
         for (int i = 0; i < length - 1; i++) {
             int minValue = arr[i];

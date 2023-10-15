@@ -1,4 +1,5 @@
 public class InsertionSort {
+    // O(n^2)
     public static int[] insertionSort(int[] arr){
 
         for (int i = 1; i < arr.length; i++) {

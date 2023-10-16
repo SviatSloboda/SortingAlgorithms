@@ -12,6 +12,10 @@ public class Main {
 }
 
 
+    //bucketSort
+    //shellSort
+    //Heap Sort
+
 
 
 

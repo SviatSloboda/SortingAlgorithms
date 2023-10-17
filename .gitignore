@@ -31,4 +31,4 @@ bin/
 .idea/
 javaSortingAlgorithms.iml
 SortingAlgorithms.iml
-src/main
+src/Main.java
